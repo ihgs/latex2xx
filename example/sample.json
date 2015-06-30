@@ -1,0 +1,6 @@
+{"code":"\\documentclass{jarticle}\n
+\\begin{document}\n
+日本語 \\LaTeX \n
+を使って文章を書く。\n
+\\end{document}"
+}
